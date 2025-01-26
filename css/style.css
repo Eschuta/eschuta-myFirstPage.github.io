@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+	background-color: #00fabb;
+}
+
+header {
+    background-color: #00e7b5;
+}
+
+nav {
+    background-color: #444;
+}
+
+main {
+    background-color: #ffffff;
+    font-size: 18px;
+}
+
+footer {
+    background-color: #00fabb;
+}
+
+li {
+    display: inline-block;
+    width: 150px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Georgia', serif;
+    color: red;
+	font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+	text-align: center;
+	color: red;
+}
+
+p {
+    line-height: 1.6;
+}
+
+ul {
+	text-align: center;
+	background-color: #00ed74;
+}
+
+ol {
+	display: flex;
+	text-align: center;
+	justify-content: space-evenly;
+
+}
+
+a {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+	
+}
+
+footer p {
+    text-align: center;
+}
